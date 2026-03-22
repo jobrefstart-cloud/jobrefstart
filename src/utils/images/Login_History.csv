@@ -1,0 +1,66 @@
+userId,userEmail,name,username,login_time,logout_time,role,role_short,module_name,access_time
+melody.mckenna,melody.mckenna@aiccorp.com,Melody McKenna,Melody.Mckenna,2025-07-25 11:10:21,2025-07-25 11:10:13,Quality Supervisor,QS,SmartSpeech-SmartSpeech Call List,2025-07-25 11:11:18
+Deepak.Verma,deepak.verma1@billgosling.com,Deepak Verma,Deepak.Verma,2025-07-25 02:44:14,2025-07-24 06:39:17,Quality Supervisor,QS,NA,NA
+Georgia.Ruth,Georgia.Ruth@billgosling.com,Georgia Ruth,Georgia.Ruth,2025-07-25 02:43:29,2024-02-29 10:42:49,Operation Supervisor,OS,NA,NA
+Support,support@billgosling.com,Support,Support,2025-07-24 05:26:22,2025-07-02 07:24:37,Quality Supervisor,QS,"Dashboard, User Login Report","2025-07-24 05:27:59, 2025-07-24 05:28:19"
+MK07752,anmol.singh@billgosling.com,Anmol Singh,Anmol.Singh,2025-07-24 04:33:09,,Quality Supervisor,QS,SmartSpeech-SmartSpeech Call List,2025-07-24 04:36:18
+MK00001,sonu.kumar@billgosling.com,Sonu Kumar,sonu kumar,2025-07-24 03:25:10,2025-07-17 02:10:32,Admin,AA,NA,NA
+Markandey.Singh,markandey.singh@billgosling.com,Markandey Singh,Markandey.Singh,2025-07-24 02:48:17,2025-07-24 01:15:21,Admin,AA,NA,NA
+jennifer.paterson,jennifer.paterson@aiccorp.com,Jennifer Paterson,Jennifer.Paterson,2025-07-22 03:32:38,2024-02-08 05:38:59,Operation Supervisor,OS,NA,NA
+Rahul.Dey,rahul.dey@billgosling.com,Rahul Dey,Rahul.Dey,2025-07-21 05:46:51,2025-05-12 06:03:18,Admin,AA,module_name,2025-07-21 05:47:18
+107713,keiran.livingston@billgosling.com,Keiran Livingston,keiran.livingston,2025-07-21 02:03:52,2025-07-21 02:03:32,Quality Manager,QM,NA,NA
+greg.ramage,greg.ramage@billgosling.com,Greg Ramage,Greg.Ramage,2025-07-18 08:33:20,2025-07-16 10:15:36,Enterprise Manager,EM,"module_name, module_name, module_name, module_name","2025-07-18 08:34:03, 2025-07-18 08:34:11, 2025-07-18 08:34:55, 2025-07-18 08:35:08"
+Courtney.Burgoyne,courtney.burgoyne@billgosling.com,Courtney Burgoyne,Courtney.Burgoyne,2025-07-17 11:55:00,2025-07-17 08:46:55,Quality Supervisor,QS,NA,NA
+Courtney.Hanley,courtney.hanley@aiccorp.com,Courtney Hanley,Courtney.Hanley,2025-07-15 09:58:40,2024-07-30 08:17:56,Quality Supervisor,QS,"module_name, module_name","2025-07-15 09:59:23, 2025-07-15 10:37:52"
+Louise.Sandle,louise.sandle@aiccorp.com,Louise Sandle,Louise.Sandle,2025-06-09 12:37:29,,Quality Supervisor,QS,"Call-Call List, Dashboard, Call-Call List, Scheduled Report","2025-06-09 12:38:13, 2025-06-09 12:38:37, 2025-06-09 12:40:05, 2025-06-09 12:40:55"
+Erryn.Miller,erryn.miller@aiccorp.com,Erryn Miller,Erryn.Miller,2025-05-16 12:29:26,,Quality Supervisor,QS,NA,NA
+Utsav.Gaur,utsav.gaur@mattsenkumar.com,Utsav Gaur,Utsav.Gaur,2025-05-13 09:52:33,2024-07-17 03:29:13,Quality Supervisor,QS,NA,NA
+kieran.shepherd,kieran.shepherd@billgosling.com,Kieran Shepherd,kieran.shepherd,2025-05-07 09:41:57,2025-05-07 09:49:13,Quality Supervisor,QS,Evaluation Summary,2025-05-07 09:42:28
+Durgesh.Kumar,durgesh.kumar@billgosling.com,Durgesh Kumar,Durgesh.Kumar,2025-03-13 09:26:16,2025-03-13 08:09:01,Quality Supervisor,QS,"Evaluation Summary, SmartSpeech-SmartSpeech Call List, Dashboard, KPI Dashboard-Dashboard","2025-03-13 09:26:44, 2025-03-13 09:27:01, 2025-03-13 11:18:14, 2025-03-13 11:18:16"
+cheryl.brabender,cheryl.brabender@billgosling.com,Cheryl Brabender,Cheryl.Brabender,2025-03-11 02:54:43,,Enterprise Manager,EM,Evaluation Summary,2025-03-11 02:55:24
+Alan.Carmichael,alan.carmichael@aiccorp.com,Alan Carmichael,Alan.Carmichael,2025-03-10 02:13:10,,Operation Manager,OM,"Evaluation Summary, Dashboard, Evaluation Summary, Evaluation Summary","2025-03-10 02:13:42, 2025-03-10 02:15:00, 2025-03-10 02:15:19, 2025-03-10 02:15:36"
+Yatendra.Sehgal,yatendra.sehgal@billgosling.com,Yatendra Sehgal,Yatendra.Sehgal,2025-02-11 10:27:01,,Admin,AA,NA,NA
+MK07474,ali.wasi@mattsenkumar.com,Ali Asad Wasi,Ali.Wasi,2025-02-05 02:33:33,,Admin,AA,NA,NA
+laura.mchugh,laura.mchugh@billgosling.com,Laura Mchugh,laura.mchugh,2025-01-20 12:44:01,2025-01-20 12:45:17,Quality Manager,QM,NA,NA
+MK07942,anup.rauthan@billgosling.com,Anup Singh Rauthan,Anup.Rauthan,2025-01-17 12:19:27,2025-01-17 12:20:54,Admin,AA,NA,NA
+Manish.Kumar,manish.kumar4@billgosling.com,Manish Kumar,Manish.Kumar,2024-12-31 10:11:29,,Admin,AA,NA,NA
+John.Anderson,john.anderson@aiccorp.com,John Anderson,John.Anderson,2024-10-23 11:02:13,,Operation Manager,OM,NA,NA
+rashi.baweja2,rashi.baweja@billgosling.com,Rashi Baweja,Rashi Baweja,2024-10-14 03:42:36,2024-06-19 07:30:38,Quality Supervisor,QS,NA,NA
+Haresh.Sagvekar,haresh.sagvekar@billgosling.com,Haresh Sagvekar,Haresh.Sagvekar,2024-10-09 04:41:50,2024-10-09 04:42:39,Quality Supervisor,QS,NA,NA
+David.Ralston,david.ralston@billgosling.com,David Ralston,David.Ralston,2024-10-01 02:30:57,,Quality Supervisor,QS,NA,NA
+Amanda.Faris,amanda.faris@billgosling.com,Amanda Faris,Amanda.Faris,2024-09-26 06:50:17,,Enterprise Manager,EM,NA,NA
+Aravindhan.P,aravindhan.p@billgosling.com,Aravindhan P,Aravindhan.P,2024-08-16 01:03:46,2024-08-16 11:56:59,Quality Supervisor,QS,NA,NA
+rashi.baweja,rashi.baweja@mattsenkumar.com,Rashi Baweja,Rashi Baweja,2024-08-14 12:29:41,2024-08-14 12:30:19,Admin,AA,NA,NA
+Laura.Mchugh_om,laura.mchugh@aiccorp.com,Laura Mchugh,Laura.Mchugh_om,2024-07-16 08:39:28,2024-07-16 08:48:59,Enterprise Manager,EM,NA,NA
+Ashleigh.Sandle,ashleigh.sandle@aiccorp.com,Ashleigh Sandle,Ashleigh.Sandle,2024-07-08 03:50:44,2024-01-26 05:12:50,Quality Supervisor,QS,NA,NA
+Avanish.Singh,avanish.singh2@billgosling.com,Avanish Singh,Avanish.Singh,2024-06-28 02:36:41,2024-06-19 07:33:29,Admin,AA,NA,NA
+119903,vincent.pitt@billgosling.com,Vincent Pitt,vincent.pitt,2024-06-25 12:08:36,,Quality Supervisor,QS,NA,NA
+sonu.kumar2,sonu.kumar@mattsenkumar.com,Sonu Kumar,Sonu Kumar,2024-05-01 07:59:58,2024-05-01 10:19:21,Quality Supervisor,QS,NA,NA
+Jasbir.Kaur,jasbir.kaur@billgosling.com,Jasbir Kaur,Jasbir.Kaur,2024-04-05 05:28:30,,Admin,AA,NA,NA
+PSGID001,utsav.gaur_admin@mattsenkumar.com,Utsav Gaur Admin,Utsav.Gaur,2024-02-12 01:17:40,2024-02-12 01:23:00,Admin,AA,NA,NA
+Abhishek,abhishek1@billgosling.com,Abhishek,Abhishek,,,Admin,AA,NA,NA
+Om.Sharma,om.sharma@billgosling.com,Om Sharma,Om.Sharma,,,Admin,AA,NA,NA
+Akanksha.Sharma,akanksha.sharma@billgosling.com,Akanksha Sharma,Akanksha.Sharma,,,Admin,AA,NA,NA
+Gautam.Vohra,gautam.vohra@billgosling.com,Gautam Vohra,Gautam.Vohra,,,Admin,AA,NA,NA
+Nitika.Ahuja,nitika.ahuja@billgosling.com,Nitika Ahuja,Nitika.Ahuja,,,Admin,AA,NA,NA
+Nikita.Singh,nikita.singh2@billgosling.com,Nikita Singh,Nikita.Singh,,,Admin,AA,NA,NA
+Keiran.Livingston_admin,keiran.livingston_admin@billgosling.com,Keiran Livingston,Keiran.Livingston_admin,,,Admin,AA,NA,NA
+Laura.Mchugh_admin,laura.mchugh_admin@aiccorp.com,Laura Mchugh,Laura.Mchugh_admin,,,Admin,AA,NA,NA
+TRNR-Team2,Training.Team2@billgosling.com,Training Team,TRNR-Team2,,,Quality Evaluator,QE,NA,NA
+Melissa.Hurley,melissa.hurley@billgosling.com,Melissa Hurley,Melissa.Hurley,,,Quality Manager,QM,NA,NA
+MK10390,ankit.kumar7@mattsenkumar.com,Ankit Kumar,Ankit.Kumar,,,Admin,AA,NA,NA
+Shafquat.Imam,shafquat.imam@billgosling.com,Shafquat Imam,Shafquat.Imam,,,Quality Supervisor,QS,NA,NA
+MK06647,vikas.tanwar@mattsenkumar.com,Vikas Tanwar,Vikas.Tanwar,,,Admin,AA,NA,NA
+MK00028,siddhartha.boruah@mattsenkumar.com,Siddhartha Shankar Boruah,Siddhartha.Boruah,,,Admin,AA,NA,NA
+Steven.Hearton,steven.hearton@billgosling.com,Steven Hearton,Steven.Hearton,,,Operation Manager,OM,NA,NA
+TRNR-Team3,Training.Team3@billgosling.com,Training Team,TRNR-Team3,,,Operation Supervisor,OS,NA,NA
+123479,aditi.walia@billgosling.com,Aditi Walia,Aditi.Walia,,,Quality Supervisor,QS,NA,NA
+133088,himanshi1@billgosling.com,Himanshi1,Himanshi1,,,Quality Supervisor,QS,NA,NA
+Aman.Parashar,aman.parashar@billgosling.com,Aman Parashar,Aman.Parashar,,,Quality Supervisor,QS,NA,NA
+Keiran.Livingston_om,keiran.livingston_om@aiccorp.com,Keiran Livingston,Keiran.Livingston_om,,,Operation Manager,OM,NA,NA
+Andy.Dickey,andy.dickey@aiccorp.com,Andy Dickey,Andy.Dickey,,,Operation Manager,OM,NA,NA
+TRNR-Team4,Training.Team4@billgosling.com,Training Team,TRNR-Team4,,,Operation Manager,OM,NA,NA
+TRNR-Team1,Training.Team1@billgosling.com,Training Team,TRNR-Team1,,,Quality Supervisor,QS,NA,NA
+Anthony.Armstrong,anthony.armstrong@aiccorp.com,Anthony Armstrong,Anthony.Armstrong,,,Quality Supervisor,QS,NA,NA
+Enterprise.Manager,,Enterprise Manager,Enterprise.Manager,,,Operation Manager,OM,NA,NA
+Lisa.Mcenhill,lisa.mcenhill@billgosling.com,Lisa McEnhill,Lisa.McEnhill,,,Quality Supervisor,QS,NA,NA
