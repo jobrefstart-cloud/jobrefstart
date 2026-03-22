@@ -2,7 +2,7 @@ import { Typography, Button, Box, Container, Grid } from "@mui/material";
 import { Group, Business, Description } from "@mui/icons-material";
 import homeImage from "../../../../../utils/images/home.png";
 import "../../../../../styles/theme.css";
-import "slick-carousel/slick/slick.css";
+// import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Link } from "react-router-dom";
 import BowlsSection from "./BowlsSection";
